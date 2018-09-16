@@ -1,0 +1,2 @@
+城市：https://www.toutiao.com/stream/widget/local_weather/city/
+天气：https://www.toutiao.com/stream/widget/local_weather/data/?city=太原
